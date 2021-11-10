@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @OfekZamir
 - 👀 I’m interested in React and frot-end development
-- 🌱 I’m currently learning JS React Course
-
+- currently learning react-native as well and working on a small marvel app :)
